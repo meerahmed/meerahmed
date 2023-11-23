@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Meer Ahmed
-A fassionate Full Stack Developer from Bangladesh
+                                                                  A passionate Full Stack Developer from Bangladesh.
 
                                                               🔭 I’m currently working on Laravel,PHP,Mysql,Angular.
                                                               🌱 I’m currently learning MongoDB,Express,React, Node
